@@ -1,0 +1,9 @@
+chamuca		5
+chips		10
+candy		10
+cake		15
+grill		150
+burger		80
+fzza		360
+7up		30
+hotdog		65
