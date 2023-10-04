@@ -353,7 +353,7 @@ void category()
     printf("\t\tWe Service Our 3 System Room Service...\n");
     printf("\t\t1.Single\n");
     printf("\t\t2.Double\n");
-    printf("\t\t3.Sweet\n");
+    printf("\t\t3.Suite\n");
     printf("\t\t4.Exit\n");
     printf("\t\tif you Return Main Menu...press any key Without This Option\n");
     system("color 0D");
